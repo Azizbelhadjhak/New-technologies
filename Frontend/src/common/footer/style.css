@@ -1,5 +1,5 @@
 footer {
-  background-color: #cdc8fa;
+  background-color: hsl(149, 99%, 49%);
   padding: 100px 0;
   color: #0a0a0a;
   position: relative;
@@ -8,12 +8,12 @@ footer {
 }
 footer h1 {
   margin-bottom: 30px;
-  color: rgb(240, 147, 8);
+  color: rgb(250, 4, 4);
   font-weight: 800;
   font-style: italic;
 }
 footer .img {
-  background-color: #cdc8fa;
+  background-color: #c8f4fa;
   padding: 15px 20px;
   border-radius: 5px;
 }
